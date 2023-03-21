@@ -1,6 +1,8 @@
 node_modules/
 .expo/
 dist/
+.idea/vcs.xml
+
 npm-debug.*
 *.jks
 *.p8
