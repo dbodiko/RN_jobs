@@ -3,6 +3,8 @@ node_modules/
 dist/
 .idea/vcs.xml
 
+.env
+
 npm-debug.*
 *.jks
 *.p8
